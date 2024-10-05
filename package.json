@@ -2,7 +2,7 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Anshumantyagi2004.github.io/React-Weather-App",
+  "homepage": "https://Anshumantyagi2004.github.io/React_Weather_App",
   "dependencies": {
     "@headlessui/react": "^2.1.8",
     "@heroicons/react": "^2.1.5",
